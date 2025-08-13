@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 import products from '../data/products';
 import { generateHealthSummary } from '../utils/aiAnalysis';
 
+
 const ProductDetailsPage = () => {
   const { id } = useParams();
   const [product, setProduct] = useState(null);
