@@ -47,6 +47,10 @@ This application incorporates several AI-powered features:
 
 4. Open your browser and navigate to `http://localhost:5173`
 
+or 
+
+Please visit :- https://product-transparency-website.vercel.app/
+
 ### Building for Production
 
 ```
